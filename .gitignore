@@ -1,0 +1,5 @@
+*.apk
+*.jar
+*.pdf
+*.keystore
+.DS_STORE
